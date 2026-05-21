@@ -1,0 +1,8 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cin,Taiyo Yuden,MSAST219LB5106KTNA01,2,0.09498,6.75,Cap: 10 µF  Total Derated Cap: 3.9 µF  VDC: 25 V  ESR: 5.85 mΩ  Package: 0805  
+Rfbb,Yageo,RC0201FR-0710KL,1,0.01,2.08,Resistance: 10 kΩ  Tolerance: 1.0%  Power: 50 mW  
+Cbst,AVX,08053C104KAT2A,1,0.01,6.75,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 25 V  ESR: 280 mΩ  Package: 0805  
+L1,Coilcraft,XGL4030-472MEC,1,1.26,1.68,L: 4.7 µH  DCR: 31.5 mΩ  IDC: 4.4 A  
+U1,Texas Instruments,TPS562200DDCR,1,0.24,14.82,
+Cout,Taiyo Yuden,MSASL219LB5226MTNA01,2,0.07115,6.75,Cap: 22 µF  Total Derated Cap: 15 µF  VDC: 10 V  ESR: 3.64 mΩ  Package: 0805  
+Rfbt,Yageo,RC0201FR-0756K2L,1,0.01,2.08,Resistance: 56.2 kΩ  Tolerance: 1.0%  Power: 50 mW  
