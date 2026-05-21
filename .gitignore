@@ -1,0 +1,8 @@
+# Altium backup/history/cache files
+History/
+__Previews/
+*.PrjPcbStructure
+*.SchDocPreview
+
+# macOS
+.DS_Store
