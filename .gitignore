@@ -6,3 +6,5 @@ __Previews/
 
 # macOS
 .DS_Store
+Project Logs for*/
+*.LOG
