@@ -1,40 +1,17 @@
 # PCB Design Studies with Altium Designer
 
-This repository documents my PCB design learning process and projects developed using **Altium Designer** as part of my electronic circuit board design coursework.
+A collection of **PCB design studies and projects** developed in **Altium Designer** during my electronic circuit board design coursework.
 
-## Repository Content
+## Highlights
+- 8-week PCB design learning progression
+- Schematic design and PCB layout practice
+- Component library and footprint usage
+- Routing and board organization studies
+- BOM generation and design rule validation
+- Final **ATmega328P-based PCB design project**
 
-### Weekly PCB Design Studies
-- Week 1 – Week 8 PCB design practice files
-- Schematic design and PCB layout exercises
-- Component library usage
-- PCB routing and board organization practice
-- BOM generation and design rule checks
+## Repository Structure
 
-### Final Project – ATmega328P PCB Design
-A microcontroller-based PCB design project developed in Altium Designer.
-
-Project includes:
-- Schematic design
-- PCB layout design
-- Component footprint/library work
-- Routing and design rule validation
-
-## Tools Used
-- **Altium Designer**
-- PCB schematic capture
-- PCB layout and routing
-- BOM generation
-- Design Rule Check (DRC)
-
-## Learning Outcomes
-Through these studies, I improved my skills in:
-- Electronic circuit schematic design
-- PCB layout design
-- Component placement and routing
-- PCB design rule validation
-- Altium Designer project workflow
-
-## Author
-**Hatice Yılmaz**  
-Computer Engineering Student
+```text
+PCB1–PCB8        → Weekly PCB design practice studies
+FINAL_PROJECT    → Final PCB design project
